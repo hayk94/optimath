@@ -2,6 +2,6 @@
 
 In command line `npm start`
 
-Dependencies
+### Dependencies
 
-Nodejs
+- Nodejs
